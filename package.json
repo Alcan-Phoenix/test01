@@ -1,0 +1,19 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test for pull and push and commit",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alcan-Phoenix/test01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alcan-Phoenix/test01/issues"
+  },
+  "homepage": "https://github.com/Alcan-Phoenix/test01#readme"
+}
